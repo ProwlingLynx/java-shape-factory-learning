@@ -9,6 +9,6 @@ public class Circle extends ShapeBase {
 
     @Override
     public double calculateArea() {
-        return 3.14 * (width/2) * (width/2);
+        return Math.PI * (width/2) * (width/2);
     }
 }
