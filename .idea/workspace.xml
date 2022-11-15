@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c04db8a0-6c78-46de-9a37-0a292b2ac7e7" name="Changes" comment="adding init interface IShape&#10;adding BaseShape class&#10;adding BaseShape fields, getter, setter, constructor.">
+    <list default="true" id="c04db8a0-6c78-46de-9a37-0a292b2ac7e7" name="Changes" comment="Adding main method to Test class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shape/Hexagon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shape/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shape/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -65,7 +71,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668483594193</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implementing calculateArea method to Rectangle and Triangle Classes">
+      <created>1668483865397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668483865397</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding package name to Triangle.java">
+      <created>1668483946546</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668483946546</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding main method to Test class">
+      <created>1668484103507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668484103507</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +109,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="adding init interface IShape&#10;adding BaseShape class&#10;adding BaseShape fields, getter, setter, constructor." />
-    <option name="LAST_COMMIT_MESSAGE" value="adding init interface IShape&#10;adding BaseShape class&#10;adding BaseShape fields, getter, setter, constructor." />
+    <MESSAGE value="implementing calculateArea method to Rectangle and Triangle Classes" />
+    <MESSAGE value="adding package name to Triangle.java" />
+    <MESSAGE value="Adding main method to Test class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding main method to Test class" />
   </component>
 </project>
