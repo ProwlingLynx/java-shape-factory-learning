@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c04db8a0-6c78-46de-9a37-0a292b2ac7e7" name="Changes" comment="Refactored classes to use double instead of int.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/shape/Oval.java" afterDir="false" />
+    <list default="true" id="c04db8a0-6c78-46de-9a37-0a292b2ac7e7" name="Changes" comment="Refactoring circle to use Math.PI&#10;Implementing Oval class.">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668489991479</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Refactoring circle to use Math.PI&#10;Implementing Oval class.">
+      <created>1668491679497</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668491679497</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +133,7 @@
     <MESSAGE value="Adding main method to Test class" />
     <MESSAGE value="implementing circle and hexagon classes." />
     <MESSAGE value="Refactored classes to use double instead of int." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored classes to use double instead of int." />
+    <MESSAGE value="Refactoring circle to use Math.PI&#10;Implementing Oval class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring circle to use Math.PI&#10;Implementing Oval class." />
   </component>
 </project>
