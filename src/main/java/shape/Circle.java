@@ -8,7 +8,7 @@ public class Circle extends ShapeBase {
     }
 
     @Override
-    public int calculateArea() {
-        return (int) 3.14 * (width/2) * (width/2);
+    public double calculateArea() {
+        return 3.14 * (width/2) * (width/2);
     }
 }

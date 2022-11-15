@@ -8,7 +8,7 @@ public class Hexagon extends ShapeBase {
     }
 
     @Override
-    public int calculateArea() {
-        return (int) ((3 * Math.sqrt(3))/2) * (width/2) * (height/2);
+    public double calculateArea() {
+        return ((3 * Math.sqrt(3))/2) * (width/2) * (height/2);
     }
 }

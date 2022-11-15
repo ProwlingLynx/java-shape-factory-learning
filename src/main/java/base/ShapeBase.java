@@ -35,7 +35,7 @@ public class ShapeBase implements IShape {
     }
 
     @Override
-    public int calculateArea() {
+    public double calculateArea() {
         return 0;
     }
 }

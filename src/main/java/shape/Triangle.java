@@ -8,7 +8,7 @@ public class Triangle extends ShapeBase {
     }
 
     @Override
-    public int calculateArea() {
+    public double calculateArea() {
         return width * height / 2;
     }
 }

@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c04db8a0-6c78-46de-9a37-0a292b2ac7e7" name="Changes" comment="Adding main method to Test class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shape/Hexagon.java" afterDir="false" />
+    <list default="true" id="c04db8a0-6c78-46de-9a37-0a292b2ac7e7" name="Changes" comment="implementing circle and hexagon classes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/IShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/IShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/ShapeBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ShapeBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shape/Hexagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shape/Hexagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shape/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shape/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668484103507</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="implementing circle and hexagon classes.">
+      <created>1668486215887</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668486215887</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +122,7 @@
     <MESSAGE value="implementing calculateArea method to Rectangle and Triangle Classes" />
     <MESSAGE value="adding package name to Triangle.java" />
     <MESSAGE value="Adding main method to Test class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding main method to Test class" />
+    <MESSAGE value="implementing circle and hexagon classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="implementing circle and hexagon classes." />
   </component>
 </project>
