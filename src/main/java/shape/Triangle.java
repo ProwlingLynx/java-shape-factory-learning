@@ -1,3 +1,5 @@
+package shape;
+
 import base.ShapeBase;
 
 public class Triangle extends ShapeBase {
